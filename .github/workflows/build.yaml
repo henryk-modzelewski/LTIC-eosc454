@@ -39,7 +39,7 @@ jobs:
         REPO_DIR: /srv/repo
         #
         # Uncomment and modify the following line with your image name, otherwise no push will happen
-        IMAGE_NAME: "henrykmodzelewski/2i2c-eosc454"
+        IMAGE_NAME: "henrykmodzelewski/LTIC-eosc454"
 
     # Lets us monitor disks getting full as images get bigger over time
     - name: Show how much disk space is left
